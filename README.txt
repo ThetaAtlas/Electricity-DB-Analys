@@ -44,8 +44,8 @@ Note: This project was built using Python 3.12.11. Other versions might cause is
 
 Development Note
 This project was built by me. I used AI assistance to help debug problems, explain concepts, improve the code, and write documentation.
-Recommended Tools
 
+Recommended Tools
 VS Code Extension: SQLite Viewer (great for easily browsing the database)
 Use the built-in "query_energy_market_db" tool inside the chat for safe querying
 
