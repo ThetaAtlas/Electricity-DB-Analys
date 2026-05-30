@@ -16,7 +16,6 @@ Average Price: Electricity per Kilowatt-Hour (U.S. City Average): https://fred.s
 Equity Market Volatility Tracker: Energy And Environmental Regulation: https://fred.stlouisfed.org/series/EMVENRGYENVREG
 
 NOTE: All data and credit belong to fred.stlouisfed.org. This project uses the data for learning, research, and demonstration purposes only.
-Features
 
 Database
 The energy_market.db file is included in this repository so anyone can clone and run the project immediately.
@@ -24,6 +23,7 @@ The energy_market.db file is included in this repository so anyone can clone and
 All data originates from the Federal Reserve Economic Data (FRED) website: https://fred.stlouisfed.org
 Full credit and thanks to FRED for making this data publicly available.
 
+Features
 Friendly real-time chat interface powered by Gradio
 Runs completely locally using LM Studio
 Secure read-only access to the energy market database
