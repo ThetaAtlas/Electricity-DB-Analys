@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "Electric": {
+      "command": "(Path to project folder)\\electricvenv\\Scripts\\python.exe",
+      "args": [
+        "server.py"
+      ],
+      "cwd": "(Path to project folder)"
+    }
+  }
+}
+
+delete below before putting in lm studio mcp json
+#replace (Path to project folder)
+
+Example
+z:\\"dfahkdjfs"\\project\\venv\\Scripts\\pyhton.exe
